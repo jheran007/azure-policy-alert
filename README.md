@@ -1,4 +1,4 @@
-# azure-policy-monitor
+# azure-policy-alert
 
 The files in the project are to support the blog post written (https://techcommunity.microsoft.com/t5/fasttrack-for-azure/generate-azure-policy-compliance-alerts-by-sending-custom-data/ba-p/3671119) on how to create policy compliance state change alerts and notifications.
 
